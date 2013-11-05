@@ -9,7 +9,7 @@ The rules are the following:
 
 2) Homework descriptions - separate Wiki pages.
 
-3) Post questions - i issue tracking system.
+3) Post questions - in issue tracking system.
 
 Sport programming is the best!
 
