@@ -2,6 +2,7 @@ Algorithms_KhAI
 ===============
 
 Here we will keep all the materials and references from KhAI trainings
+
 (at least, lectures, so it's better to attend practice meetings).
 
 The rules are the following:
