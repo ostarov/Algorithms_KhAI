@@ -11,7 +11,9 @@ The rules are the following:
 
 3) Post questions - in issue tracking system.
 
-Sport programming is the best!
+4) Internal contests - http://acm.hust.edu.cn/vjudge/toIndex.action
+
+Sport programmers are the best software engineers!
 
 Best Regards,
 
