@@ -1,9 +1,10 @@
 Algorithms_KhAI
 ===============
+(Supported by SUNY SB, http://www3.cs.stonybrook.edu/~skiena/teams/)
 
-Here we will keep all the materials and references from KhAI trainings
+Here you can find all the materials and references from KhAI trainings
 
-(at least, notes from lectures, so it's defiinetely better to attend meetings for practice!)
+(at least notes from lectures, so it's defiinetely better to attend meetings for real stuff!)
 
 The rules are the following:
 
@@ -16,6 +17,7 @@ The rules are the following:
 4) Internal contests - http://acm.hust.edu.cn/vjudge/toIndex.action
 
 Sport programmers are the best software engineers!
+
 
 Best Regards,
 
