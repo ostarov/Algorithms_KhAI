@@ -1,5 +1,6 @@
 Algorithms_KhAI
 ===============
+(Supported by http://www3.cs.stonybrook.edu/~skiena/teams/)
 
 Here you can find all the materials and references from KhAI trainings
 
